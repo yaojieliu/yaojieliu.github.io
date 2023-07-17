@@ -66,6 +66,7 @@ Research
       Computer Vision and Pattern Recognition (CVPR'23), 2023.<br/>
       [<a href="https://arxiv.org/abs/2303.13662">PDF</a>]
       [<a href="https://github.com/sunyiyou/SAFAS">Code</a>]
+      [<a href="https://yaojieliu.github.io/images/22436.png?raw=true">Poster</a>]
     </p>
   </div>
 </div>
